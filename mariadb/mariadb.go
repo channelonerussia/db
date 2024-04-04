@@ -77,8 +77,8 @@ func (m *mariadb) BeginTx(ctx context.Context, txOptions *sql.TxOptions) (*sql.T
 	return m.dbc.BeginTx(ctx, txOptions)
 }
 
-func (m *mariadb) Ping() error {
-	return m.dbc.Ping()
+func (m *mariadb) PingContext(ctx context.Context) error {
+	return m.dbc.PingContext(ctx)
 }
 
 func (m *mariadb) Close() {

@@ -61,5 +61,5 @@ type QueryExecer interface {
 
 // Pinger интерфейс для проверки соединения с БД
 type Pinger interface {
-	Ping() error
+	PingContext(ctx context.Context) error
 }
