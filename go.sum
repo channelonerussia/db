@@ -4,6 +4,8 @@ github.com/channelonerussia/mariadb v0.0.1 h1:xdllRcy134VSyHBX1eBYsZSgt+1lgyEiEj
 github.com/channelonerussia/mariadb v0.0.1/go.mod h1:YuIOMkon136RDECBqS246FTti46Qy3ACJGH2w9YmK80=
 github.com/channelonerussia/mariadb v1.0.0 h1:XTDu7AkIfASjQnIfL1fHuatSsx5mLl0IfQqiTKUKadQ=
 github.com/channelonerussia/mariadb v1.0.0/go.mod h1:YuIOMkon136RDECBqS246FTti46Qy3ACJGH2w9YmK80=
+github.com/channelonerussia/mariadb v1.0.1 h1:38uT7Xz9DQKpZNu1SpSIU6TmU/PzKyyUmgdg6TnxDho=
+github.com/channelonerussia/mariadb v1.0.1/go.mod h1:YuIOMkon136RDECBqS246FTti46Qy3ACJGH2w9YmK80=
 github.com/georgysavva/scany/v2 v2.1.2 h1:Apd23j4aE+MfOrqNWi6yTygZlQTjczLF+wARMIn9K38=
 github.com/georgysavva/scany/v2 v2.1.2/go.mod h1:fqp9yHZzM/PFVa3/rYEC57VmDx+KDch0LoqrJzkvtos=
 github.com/go-sql-driver/mysql v1.8.1 h1:LedoTUt/eveggdHS9qUFC1EFSa8bU2+1pZjSRpvNJ1Y=
